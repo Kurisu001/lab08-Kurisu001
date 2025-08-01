@@ -1,4 +1,4 @@
-import { FaBullseye } from "react-icons/fa";
+//import { FaBullseye } from "react-icons/fa";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
